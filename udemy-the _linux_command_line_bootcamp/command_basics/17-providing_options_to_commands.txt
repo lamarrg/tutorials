@@ -1,0 +1,36 @@
+# majority of commands support options that we can provide when we execute each command
+# options are prefixed by a dash
+
+> command -option
+
+# turn off highlighting current date on cal (highlight is visible in terminal, not in these text files)
+> cal -h
+
+# !!! capitalization does matter... each letter can be a COMPLETELY different command
+
+# outputs cal in julian fashion, counts the number of days from the beginning of the year (had to choose a month other than january for a better visual)
+> cal -j march 2022
+        March 2022           
+ Su  Mo  Tu  We  Th  Fr  Sa  
+         60  61  62  63  64  
+ 65  66  67  68  69  70  71  
+ 72  73  74  75  76  77  78  
+ 79  80  81  82  83  84  85  
+ 86  87  88  89  90  
+
+
+# prints out calendar using monday as the first day of the week (did not work on my system)
+> cal -M
+
+
+# prints surrounding calendars
+> cal -3
+   December 2021          January 2022         February 2022      
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+          1  2  3  4                     1         1  2  3  4  5  
+ 5  6  7  8  9 10 11   2  3  4  5  6  7  8   6  7  8  9 10 11 12  
+12 13 14 15 16 17 18   9 10 11 12 13 14 15  13 14 15 16 17 18 19  
+19 20 21 22 23 24 25  16 17 18 19 20 21 22  20 21 22 23 24 25 26  
+26 27 28 29 30 31     23 24 25 26 27 28 29  27 28                 
+                      30 31  
+
