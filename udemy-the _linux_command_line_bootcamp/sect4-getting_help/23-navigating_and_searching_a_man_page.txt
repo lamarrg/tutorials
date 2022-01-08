@@ -1,0 +1,16 @@
+# 'q' exits the manual
+# down/up arrow goes in the direction one line at a time.  holding scrolls quicker
+
+# space bar goes down one page at a time. 
+
+# B goes back one page at a time
+
+# F goes forward one page at a time
+
+
+
+# SEARCHING
+# in the manual, type forward slash and the serach term, then press <enter>... -> "/-w"
+
+
+
