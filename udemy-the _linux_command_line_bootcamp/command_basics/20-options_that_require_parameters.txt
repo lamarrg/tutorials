@@ -1,0 +1,47 @@
+# example of an that requires a parameter
+# tells cal to print the amount of months after the currnet one
+
+
+> cal -A 2
+                            2022
+      January               February               March          
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                   1         1  2  3  4  5         1  2  3  4  5  
+ 2  3  4  5  6  7  8   6  7  8  9 10 11 12   6  7  8  9 10 11 12  
+ 9 10 11 12 13 14 15  13 14 15 16 17 18 19  13 14 15 16 17 18 19  
+16 17 18 19 20 21 22  20 21 22 23 24 25 26  20 21 22 23 24 25 26  
+23 24 25 26 27 28 29  27 28                 27 28 29 30 31        
+30 31   
+
+
+
+# tells cal to print the amount of months before the currnet one
+> cal -B 2
+
+# can do it without space... 
+> cal -B2
+
+
+# and can chain 
+> cal -B2 -A2
+
+
+# can provide multiple parameters, but can also pass arguments (if an options requires an arg, like "B1", must separate other options)
+# convention puts options before parameters
+> cal -B1 -A2 july 1969
+     June 1969             July 1969            August 1969       
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7         1  2  3  4  5                  1  2  
+ 8  9 10 11 12 13 14   6  7  8  9 10 11 12   3  4  5  6  7  8  9  
+15 16 17 18 19 20 21  13 14 15 16 17 18 19  10 11 12 13 14 15 16  
+22 23 24 25 26 27 28  20 21 22 23 24 25 26  17 18 19 20 21 22 23  
+29 30                 27 28 29 30 31        24 25 26 27 28 29 30  
+                                            31                    
+
+   September 1969     
+Su Mo Tu We Th Fr Sa  
+    1  2  3  4  5  6  
+ 7  8  9 10 11 12 13  
+14 15 16 17 18 19 20  
+21 22 23 24 25 26 27  
+28 29 30 
