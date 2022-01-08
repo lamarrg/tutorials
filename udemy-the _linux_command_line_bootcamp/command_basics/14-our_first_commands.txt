@@ -1,0 +1,26 @@
+# First Command - date, shows day of week, month, date, year and time details 
+> date
+Sat Jan  8 13:20:45 CST 2022
+
+# ncal - prints out a vertical calendar
+> ncal
+    January 2022      
+Mo     3 10 17 24 31
+Tu     4 11 18 25   
+We     5 12 19 26   
+Th     6 13 20 27   
+Fr     7 14 21 28   
+Sa  1  8 15 22 29   
+Su  2  9 16 23 30 
+
+
+> cal
+    January 2022      
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29  
+30 31  
+
