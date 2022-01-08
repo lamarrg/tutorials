@@ -1,0 +1,14 @@
+# SOME options take complete words (long form)
+# if you use them, need to have "--" before it (to signify it is not a bunch of commands squished together)
+
+
+# the 2 following commands will return the same thing
+> date -u
+> date --universal
+Sat Jan  8 21:27:21 UTC 2022
+
+
+# if you use multiple long form options, you will need to put a space between them
+> sort <filename> --reverse --unique
+
+
