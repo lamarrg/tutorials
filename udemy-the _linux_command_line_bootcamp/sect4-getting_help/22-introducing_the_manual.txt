@@ -1,0 +1,4 @@
+# to get the manual for a particular command, type the command -> man <command>
+
+
+> man cal
