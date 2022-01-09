@@ -1,0 +1,15 @@
+# below is synopsis from the "man" command
+# anytime you see something in square brackets "[]", means its optional
+
+
+SYNOPSIS
+     cal [-3hjy] [-A number] [-B number] [[month] year]
+     cal [-3hj] [-A number] [-B number] -m month [year]
+     ncal [-3hjJpwy] [-A number] [-B number] [-s country_code] [[month] year]
+     ncal [-3hJeo] [-A number] [-B number] [year]
+     ncal [-CN] [-H yyyy-mm-dd] [-d yyyy-mm]
+     
+     
+     
+# [-3hjy] is lumped together... any of these items are optional.  "[-A number]" is optional, but the option must include a number... 
+
