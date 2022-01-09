@@ -1,0 +1,29 @@
+###
+4 main types of commands
+- an executable program, compiled binary files
+- a built in shell command
+- shell function
+- an alias
+###
+
+# enter "type <command>" to find out
+> type clear
+clear is hashed (/usr/bin/clear)
+
+> type mkdir
+mkdir is /usr/bin/mkdir
+
+> type cd
+cd is a shell builtin
+
+
+
+# "which <command>" tells where the command is located
+> which clear
+/usr/bin/clear
+
+> which man
+/usr/bin/man
+
+
+
