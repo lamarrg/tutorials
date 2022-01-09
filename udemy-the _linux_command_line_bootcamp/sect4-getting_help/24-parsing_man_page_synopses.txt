@@ -13,3 +13,13 @@ SYNOPSIS
      
 # [-3hjy] is lumped together... any of these items are optional.  "[-A number]" is optional, but the option must include a number... 
 
+
+
+# synopsis for ehco ->
+# echo [SHORT-OPTION]... [STRING]...  means that any option and any string are optional.
+# the elipses mean one or more of the thing that comes before elipses can be provided. 
+
+
+# the cp (copy) command
+# not all options are optional -> must have a source file and and a destination
+> cp [OPTION]... [-T] SOURCE DEST
