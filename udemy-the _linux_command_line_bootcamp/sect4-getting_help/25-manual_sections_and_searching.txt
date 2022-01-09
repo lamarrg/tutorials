@@ -1,0 +1,43 @@
+# categories in each manual. on some search results, section where the result is listed in the "()" (see below) `
+1. User Commands
+2. System Calls
+3. C Library Functions
+4. Special Files
+5. File Forms
+6. Games
+7. Miscellaneous
+8. System Admin Commands
+
+
+###
+ man -k <text>
+     Search the short descriptions and manual page names for the keyword
+     printf as regular expression.  Print out any  matches.   Equivalent
+     to apropos printf.
+###
+
+
+> man k- passwd
+chgpasswd (8)        - update group passwords in batch mode
+chpasswd (8)         - update passwords in batch mode
+expect_mkpasswd (1)  - generate new password, optionally apply it to a user
+gpasswd (1)          - administer /etc/group and /etc/gshadow
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+htpasswd (1)         - Manage user files for basic authentication
+mkpasswd (1)         - Overfeatured front end to crypt(3)
+openssl-passwd (1ssl) - compute password hashes
+pam_localuser (8)    - require users to be listed in /etc/passwd
+passwd (1)           - change user password
+passwd (1ssl)        - compute password hashes
+passwd (5)           - the password file
+update-passwd (8)    - safely update /etc/passwd, /etc/shadow and /etc/group
+
+
+# can search a specific section of results
+> man 5 passwd
+
+
+
+
+
+
