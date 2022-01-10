@@ -1,0 +1,5 @@
+# the root directory. starting point of entire directory -> /
+# there is a directory that has the name "root", but is not the beginning of everything
+
+# to get there in the terminal, use the following command...
+> cd /
