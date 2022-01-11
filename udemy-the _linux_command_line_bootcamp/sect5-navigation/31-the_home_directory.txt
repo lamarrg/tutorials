@@ -1,0 +1,11 @@
+# the home directory. 
+# for every user on the system, there will be a subdirectory named with their username in the home directory. holds everything that pertains only to that user
+
+# to get to root... 
+> cd /
+
+
+# to get to home/root relative to the currently logged in user...
+> cd ~ 
+
+
