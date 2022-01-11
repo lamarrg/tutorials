@@ -1,0 +1,5 @@
+# "ls", stands for list. lists the files and folders in current working directory and possibly the most used command 
+> ls
+
+# can list contents if path is added 
+> ls <path>
