@@ -1,0 +1,5 @@
+# https://en.wikipedia.org/wiki/Filename
+
+# short version, limit yourself to letters (including camel case), numbers, underscore and dash
+
+
