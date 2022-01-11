@@ -1,0 +1,14 @@
+ 
+### some commands are not working... omitted examples
+
+# to search a nano file, ^W while in it. then type phrase and hit <enter>. the search will be forward from the cursor.
+
+# by default, search is case insensitive. to enable case sensitivity, toggle option. [M-C]
+
+# to search backwards, toggle option [M-B]
+
+# to find next, [M-W]
+
+
+# replacing... to search for the word you want to replace [^\]. regex can be used to narrow down what you are looking for 
+
