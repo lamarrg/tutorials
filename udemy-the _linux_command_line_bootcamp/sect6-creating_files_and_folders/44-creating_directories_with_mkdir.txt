@@ -1,0 +1,10 @@
+# make an empty directory/folder in the current directory. or can add path to make in absolute or relative directory
+> mkdir <foldername>
+
+
+# multiple
+> mkdir <foldername> <foldername> <path/path/foldername> 
+
+
+# using option "-p" will create parent directories if they do not already exist
+> mkdir -p <path1/path2/foldername> 
