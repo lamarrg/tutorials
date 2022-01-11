@@ -1,0 +1,14 @@
+# the command "touch" is used to make a new (empty) file in the current directory. (or specified directory). 
+> touch <filename>
+
+# can do multiple at a time
+> touch <filename> <filename> <filename>
+
+
+# in other location
+> touch <path to folder>/<filename>
+
+
+
+
+
