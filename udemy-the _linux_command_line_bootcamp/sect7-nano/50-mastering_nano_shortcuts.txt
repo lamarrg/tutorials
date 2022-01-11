@@ -1,0 +1,9 @@
+# ^G from the main screen is the equivalent of help menu
+
+
+# all commands do not start with ^
+
+# commands that start with "M" means "Meta". on today's Mac keyboard, it is the equivalent of "ESC"
+
+# commands in nano are not the same as you would use on the system
+
