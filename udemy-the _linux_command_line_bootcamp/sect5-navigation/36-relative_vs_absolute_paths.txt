@@ -1,0 +1,4 @@
+# navigating based on where you are in the file system (relative) vs the root (absolute) 
+
+
+
