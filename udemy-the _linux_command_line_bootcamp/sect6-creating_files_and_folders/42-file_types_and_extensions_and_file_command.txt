@@ -1,0 +1,4 @@
+# in linux, the file extension in the name of a file is not what decides or determines the actual file type. but applications do care
+# the command "file" will tell us the file type
+
+> file <filename>
