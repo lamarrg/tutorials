@@ -1,6 +1,15 @@
 # Answers where applicable
 
 6. six chickens
+7. Elvis is oldest
+9. four folders(files)
+10. Mufin is sitting on golden egg
+12. four folders in Horse directory
+13. hidden horse is .Troy
+
+BONUS: ., .., .Troy, Archer, Buttons, Cookie, Jett
+# the option is -m 
+> ls -lam
 
 
 
