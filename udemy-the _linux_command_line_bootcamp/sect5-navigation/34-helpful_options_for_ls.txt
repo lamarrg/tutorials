@@ -1,0 +1,15 @@
+# below command give long listing format. shows privileges, file size, datetime modified, owners and groups
+> ls -l
+
+
+# below command stands for "all". shows hidden files that begin with "."
+> ls -a
+
+
+# "-S" sorts by file size, largest first
+> ls -lah -S
+
+
+# sort by other predefined options
+> ls -lah --sort=<word>. (word can be time, size, or other few options)
+
