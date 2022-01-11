@@ -1,0 +1,11 @@
+# nano is an editor that can be accessed and used from the command line. there are other options available 
+
+# to open an exsiting file...
+> nano <filename>
+
+# to save changes...
+> ^O  [the command is at bottom of the screen <ctrl + O>]
+> ^X  [to exit the application]
+
+# ^S  [saves without commentary]
+
