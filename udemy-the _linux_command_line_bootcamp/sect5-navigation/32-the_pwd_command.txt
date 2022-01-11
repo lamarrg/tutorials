@@ -1,0 +1,5 @@
+# pwd means "print working directory".  essentially tells you where you are
+
+> pwd
+/home/<user>/<folder name>/<folder name>
+
