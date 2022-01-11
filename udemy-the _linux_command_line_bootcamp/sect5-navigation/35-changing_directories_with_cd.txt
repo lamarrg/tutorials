@@ -1,0 +1,7 @@
+# need to provide a directory to change into. can be absolute or relative. 
+> cd Desktop/<folder>
+
+# to go one folder up (parent) -> 
+> cd ..
+
+
