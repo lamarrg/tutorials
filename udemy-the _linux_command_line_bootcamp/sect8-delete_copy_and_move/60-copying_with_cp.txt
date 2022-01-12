@@ -1,0 +1,14 @@
+# will need to choose a name for the new version
+> cp <source> <destination>
+
+# also works for moving and copying at the same time. destination will be a diff location
+
+
+# multiple copies/move at the same time...
+> cp <source> <source> <source> <new destination>
+
+
+# copy directory and contents
+> cp <directory> <new directory> -r
+
+
