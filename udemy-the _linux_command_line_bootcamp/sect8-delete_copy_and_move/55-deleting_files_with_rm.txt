@@ -1,0 +1,10 @@
+# once something is removed with "rm", its GONE. no trash folder, no intermediate step
+
+> rm <filename>
+
+
+# multiple at a time
+> rm <filename> <filename> <filename>
+
+
+
