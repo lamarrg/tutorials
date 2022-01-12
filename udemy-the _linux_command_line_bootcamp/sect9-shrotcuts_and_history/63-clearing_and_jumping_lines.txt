@@ -1,0 +1,9 @@
+# go to beginning of line
+> ctrl-a
+
+
+# go to end of line
+> ctrl-e
+
+
+
