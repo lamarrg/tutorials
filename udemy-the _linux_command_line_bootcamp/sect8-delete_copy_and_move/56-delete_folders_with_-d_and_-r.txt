@@ -1,0 +1,14 @@
+# cannot remove a directory with just "rm"
+# adding -d will allow you to remove an empty directory
+> rm -d <foldername>
+
+# or can use "rmdir" on empty directory
+> rmdir <foldername>
+
+
+# to remove a directory and their contents, add "-r" or "-R"
+> rm -r <foldername>
+
+# using "-i" will prompt before every removal. "-I" will prompt beofre removing more than three files
+> rm -i <foldername>
+
