@@ -1,0 +1,9 @@
+# moving folder, destination folder must exist. 
+> mv <source_folder> <destination_folder>
+
+
+# move multiple
+> mv <source_folder> <source_folder> <source_folder> <destination_folder>
+
+
+
