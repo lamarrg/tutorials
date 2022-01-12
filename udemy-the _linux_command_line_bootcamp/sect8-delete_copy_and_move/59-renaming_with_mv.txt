@@ -1,0 +1,8 @@
+# can only rename one item at a time
+
+# will still be in the same location
+> mv <current> <newname>
+
+
+# can rename and move at the same time. 
+> mv <source> <new_destination_with_new_name>
