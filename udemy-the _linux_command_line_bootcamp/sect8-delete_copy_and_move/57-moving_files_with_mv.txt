@@ -1,0 +1,7 @@
+# move single file or folder  
+> mv <source> <destination>
+
+
+# move multiple... do multiple files into one directory. (but the destination must already exist)
+> mv <source> <source> <source> <source> <destination>
+
