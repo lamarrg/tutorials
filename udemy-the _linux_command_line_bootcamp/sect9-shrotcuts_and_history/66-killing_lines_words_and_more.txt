@@ -1,0 +1,12 @@
+# kill the text from the current cursor location until the end of the line 
+> ctrl-k
+
+# kill the text from the current cursor location until the beginning of the line 
+> ctrl-u
+
+# kill a word, from cusor position to end of word (does not work for me)
+> ctrl-d
+
+# kill a word, from cusor position to beginning of word (does not work for me)
+> ctrl-w
+
