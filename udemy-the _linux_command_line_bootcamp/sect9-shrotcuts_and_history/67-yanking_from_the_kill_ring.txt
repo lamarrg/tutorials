@@ -1,0 +1,6 @@
+# bring back most recently killed item that is stored in the kill ring (yanking). similar to being in the clipboard, but stored in different memory locations. meaning if you have something in the kill ring, and then you cut something to the clipboard, cut item is not placed when using the below command.
+> ctrl-y
+
+
+
+
