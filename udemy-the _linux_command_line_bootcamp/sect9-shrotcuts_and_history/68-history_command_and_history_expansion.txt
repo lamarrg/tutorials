@@ -1,0 +1,28 @@
+# recalling commands, and seeing the history of the commands you've run.
+# up and down arrows primarily
+
+# shows everything saved in history
+> history
+
+# does not dump whole document at once... acts much like the man pages
+> history | less
+
+# after running "history", you can run a command with the line number with "!" at the beginning
+> !<line number>
+
+# seraching history from most recent back... keep hitting "ctrl-r" to find next match
+> ctrl-r
+
+# actual file at ~/bash_history
+
+# find out current history storage ability
+> echo $HISTFILESIZE
+
+# how many will be stored in memory
+> echo $HISTSIZE
+
+# limit for storage can be changed... 
+
+# to clear history
+> history-c
+
