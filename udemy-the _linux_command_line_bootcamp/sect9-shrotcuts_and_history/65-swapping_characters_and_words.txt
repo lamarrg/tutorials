@@ -1,0 +1,7 @@
+# ctrl-t takes the character you are on and swaps it with the preceeding letter 
+
+# opt-t should swap words in a similar manner. (not working for me)
+
+
+
+
