@@ -1,0 +1,4 @@
+# ctrl-f moves cursor forward, ctrl-b moves it back  (one space at a time) 
+
+# to jump words, alt-f & alt-b (alt=options.... not working for me)
+
