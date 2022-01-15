@@ -1,0 +1,11 @@
+# "tac" is "cat" spelled backwards. it will concatenate and print files in reverse order, bases on lines.
+> tac <filename>
+
+# "rev" reverses character order
+> rev <filename>
+
+
+
+
+
+
