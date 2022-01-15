@@ -1,0 +1,8 @@
+# cat - concatenates and prints the contents of file to terminal without actually opening it
+> cat <filename>
+
+# can do multiple files... 
+> cat <filename> <filename> 
+
+
+
