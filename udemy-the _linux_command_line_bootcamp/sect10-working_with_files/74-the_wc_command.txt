@@ -1,1 +1,19 @@
+# "wc" is short for word count. more useful when combined with other commands
+> wc <filename>
+#results are...
+<number of lines(new line characters)> <number of words> <number of bytes>
+
+# to get individual results
+# number of lines
+> wc -l <filename>
+
+# number of words
+> wc -w <filename>
+
+# number of characters
+> wc -m <filename>
+
+# number of bytes
+> wc -c <filename>
+
 
