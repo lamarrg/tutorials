@@ -1,0 +1,6 @@
+# less command diplays the contents of a file, one page at a time. can navigate through file
+> less <filename>
+
+# to page through, <space bar> or "f" and "b".  does not leave remnants on the screen like "cat". uses same program as the man pages
+
+
