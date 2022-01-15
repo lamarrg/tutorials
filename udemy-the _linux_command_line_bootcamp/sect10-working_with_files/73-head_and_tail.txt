@@ -1,0 +1,17 @@
+# works with a portion of the file, at beginnig or end. default is 10 lines
+> head <filename>
+> tail <filename>
+
+
+# change number of lines
+> head -n [number] <filename>
+> head --lines [number] <filename>
+> head -[number] <filename>
+
+# there are other options that do not seem useful on a reagular basis
+
+# for tail only... -f or --follow  will continue to output data as the file grows. could be useful for a log file
+> tail -f <filename>
+
+
+
