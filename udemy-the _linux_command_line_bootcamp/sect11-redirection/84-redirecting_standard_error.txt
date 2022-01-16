@@ -1,0 +1,3 @@
+# redirects error using "2>"... In this context, seems odd as you have to know the error will exist to redirect it... 
+
+
