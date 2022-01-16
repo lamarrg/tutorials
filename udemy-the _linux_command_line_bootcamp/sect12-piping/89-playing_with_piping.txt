@@ -1,0 +1,5 @@
+# send the results for a "ls" request (that is long) to "less", to make it manageable.
+> ls /usr/bin -l | less
+
+# how many lines in /usr/bin, ommitting header line 
+> ls /usr/bin -l | wc -l
