@@ -1,0 +1,9 @@
+# manipulating the default destination of output
+
+# the "greater than" symbol (>) tells the shell to redirect the output of a command to a specific filename that you provide
+> date > <filename>
+
+# file gets completely overwritten if other content is told to write to it. (appending will be covered in next video) 
+
+
+
