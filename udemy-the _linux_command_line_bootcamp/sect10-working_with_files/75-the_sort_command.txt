@@ -1,0 +1,15 @@
+# "sort" command outputs the sorted contents of a file, does not change the file itself. by default, will sort alphabetically. uppercase comes before lowercase
+> sort <filename>
+
+# reverse sort
+> sort -r <filename>
+> sort --reverse <filename>
+
+# by default, ordering numbers uses the first digit, not numberic whole value... 5.00 will be before 1.07
+# to do by value, use "-n"
+> sort -n <filename>
+
+# uniques only. ignores duplicate values
+> sort -u <filename>
+
+
