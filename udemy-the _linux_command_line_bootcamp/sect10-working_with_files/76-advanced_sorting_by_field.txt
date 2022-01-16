@@ -1,0 +1,5 @@
+# sort by field(column), use "-k"
+> sort -n -k2 [the '2' is the column number]
+
+
+
