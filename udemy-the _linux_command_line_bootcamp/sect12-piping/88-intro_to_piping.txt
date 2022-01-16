@@ -1,0 +1,4 @@
+# the pipe character "|" separates 2 commands. the output of the first command will be passed to the standard input of the second command.
+> date | rev
+
+
