@@ -1,0 +1,5 @@
+# following command takes input from file, reads it and outputs to new file
+> cat < <orig-filename> > <new-filename>
+
+
+
