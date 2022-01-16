@@ -1,0 +1,7 @@
+# appending to a file that has content, use ">>"
+> date >> <filename>
+
+# to make a super simple file...
+> echo BOO! > ghost.txt
+
+
