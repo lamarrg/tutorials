@@ -1,0 +1,11 @@
+# if you redirect to stdout and stderr, must list stdout first
+> cat <file1> <file2> > <new file> 2> <error file>
+
+# if you want to redirect both stdout and stderr to the same file...
+> ls <folder_list> > <filename> 2>&1
+
+# only works on newer bash... redirecting both stdout and stderr to the same file
+> ls <folder_list> &> <filename>
+
+# and to append....
+> ls <folder_list> &>> <filename>
