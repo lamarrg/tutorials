@@ -1,0 +1,5 @@
+# pass the contents of a file to standard input, use the < symbol followed by filename. end results (for the below specific example) is the same as "cat <filename>". when discussing pipelines, it will make more sense
+> cat < <filename>
+
+
+
