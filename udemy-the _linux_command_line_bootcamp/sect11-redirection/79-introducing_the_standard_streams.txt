@@ -1,0 +1,7 @@
+# learn to redirect standard input, standard output and standard error
+
+# three standard communication channels between a computer and the environment the programs are being executed in
+
+# standard input-info you give to the computer
+# standard output-what it returns (can go to screen, printer, file or other command...)
+# standard error-carries error information 
