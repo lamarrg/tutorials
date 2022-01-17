@@ -1,0 +1,16 @@
+# "tr" command requires us to provide data via stdin.  
+# "tr" definition - translate, squeeze, and/or delete characters from standard input, writing to standard output. 
+
+# taking content passed, and restructure. 
+# below, take contents of file and change all "s" to "S"
+> cat <filename> | tr s S 
+
+# can use regex to do more complicated patterns
+
+# can delete characters...
+> cat <filename> | tr -d [items to delete]
+
+# can do multiple tr in a sequence
+
+
+
