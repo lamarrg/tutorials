@@ -1,0 +1,6 @@
+# "tee" takes standard input and copies it both to standard output AND to a file. (without "tee", output would be used once and lost...) 
+> command1 <file1> <file2> <file3> | tee <new_file> | command2
+> cat <file1> <file2> <file3> | tee <new_file> | wc 
+
+
+
