@@ -1,0 +1,10 @@
+# can pipe output from a command to input of another and on and on...  following example will give more middle portions of list
+> cat <filename> | head -7 | tail -5 
+
+# example - find 3 largest files in directory
+> ls /usr/bin -lh | sort -rhk 5 | head -3
+
+# a "better" way for getting file sizes is the command "du"
+> du -ha /usr/bin/ | sort -h 
+
+
