@@ -1,0 +1,12 @@
+# if you try to use "*" in an echo command, it will insert the names of the files in the specified directory. a form of wildcard
+
+# also works with other commands. list all .txt files in a directory
+> ls -l *.txt
+
+# list files that start with "p"
+> ls -l p*
+
+# using multiple asterisks to list files with "at" in them
+> ls -l *at*
+
+
