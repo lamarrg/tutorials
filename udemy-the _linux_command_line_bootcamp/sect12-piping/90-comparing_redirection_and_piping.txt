@@ -1,0 +1,9 @@
+# > and | are used to redirect output, they do it in very different ways
+
+# > connects a command to some file
+
+# | takes the output of a command and provides as input to a second command
+
+
+
+
