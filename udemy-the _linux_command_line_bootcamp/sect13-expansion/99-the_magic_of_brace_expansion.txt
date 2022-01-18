@@ -1,0 +1,20 @@
+# CHARACTERS IN BRACKETS CANNOT HAVE SPACES
+# brace expansion is used to generate arbitrary strings. basically, it will generate multiple strings for us based on a pattern. 
+> touch page{1,2,3}.txt   (will generate 3 new files -> page1.txt, page2.txt. page3.txt
+
+# can use mult curly brackets
+> touch {Mon,Tue,Wed,Thu,Fri}_{AM,PM}.txt
+
+# RANGES
+# increment by one
+> mkdir jan{1..31}
+
+# third number defines interval of range
+> echo {2..10..2}
+
+# alphabetical range
+> echo group-{a..e}.txt
+
+# can nest curly braces
+> echo {x,y{1..5},z}
+
