@@ -1,0 +1,13 @@
+# the "locate" command performs a search of pathnames across our machine that match a given substring and prints out any matching names.
+# uses a previoulsy created database file. it is not instant, may take time to update
+# may need to install
+> locate <file or path>
+
+# option -i ignores letter case
+# -l[number] limits to a particular number
+
+# -e checks to make sure the result actaully exists. (becuse the databse file that locate uses may not be up to date)
+
+# "updatedb" will update the database list
+
+
