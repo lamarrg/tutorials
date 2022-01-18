@@ -1,0 +1,10 @@
+# finding by size, -size [number]   "number" is in human readable format- 1G, 5M, 12k...  if you do not add +/- to indicate larger or smaller, it will look for a file that is that size. 
+> find -size -40k
+
+# find by owner.... 
+> find -user <username> -name "<filename>"
+
+# find any empty files and folders, -empty
+
+
+
