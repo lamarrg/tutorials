@@ -1,0 +1,25 @@
+# "?" wildcard represents excactly any single character
+# if you want to match on an extension with 2 characters like .js, you will need to 
+> ls -l <filename>.??
+
+
+# range wildcards use square brackets ([]) like regex. looks like each bracket set represents a character
+# [123] will match 1, 2, or 3. 
+# [a-z] will match any lower case letter
+# [0-9] will match any single digit
+
+# to list for anything that starts with a capital letter
+> ls [A-Z]*
+
+# starts with a capital letter, but ends with one of 3 specific lowercase letters
+> [A-Z]*[hpr]
+
+
+
+# NEGATING RANGES
+# inside square brackets can specify range of characters to NOT match, using a carat -> ^
+> ls [^a]  (will match any files that do NOT start with "a")
+> ls [^0-9]  (will match any files that do NOT start with a numeric digit "0-9")
+> ls [^PpCc]  (will not match files that start with letters in the brackets)
+ 
+
