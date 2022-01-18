@@ -1,0 +1,15 @@
+# $((expression)) - shell will process this mathimatically. (does not need to be just echo). shell only does integer arithmetic
+
+> echo $((10+7))
+17
+
+
+###
++ addition
+- subtraction
+* multiplication
+/ division
+** exponent
+% modulo
+###
+
