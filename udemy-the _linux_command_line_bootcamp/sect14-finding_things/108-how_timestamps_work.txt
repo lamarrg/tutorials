@@ -1,0 +1,11 @@
+# mtime - modification time, when last time file contents were changed
+# ctime - change time, anytime mtime changes but also renamed, moved, or permissions altered
+# atime - access time, when file is read by an application or a command like "cat"
+
+# ls -l time shown by default is last modified time
+
+# to see change time (ctime)...  
+> ls -lc
+
+# to see access time (atime)...
+> ls -lu
