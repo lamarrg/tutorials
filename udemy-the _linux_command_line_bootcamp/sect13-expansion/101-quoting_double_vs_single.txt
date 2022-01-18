@@ -1,0 +1,8 @@
+# double quotes - if we wrap text in double quotes, the shell will respect our spacing and will ignore special characters except for $, \ and `.   pathname expansion, brace expansion, and word splitting with be ignored. command substitution and arithmetic expansion is still performed because dollar signs still have meaning inside double quotes. 
+
+
+# single quotes - supresss ALL forms of substitution
+
+
+
+
