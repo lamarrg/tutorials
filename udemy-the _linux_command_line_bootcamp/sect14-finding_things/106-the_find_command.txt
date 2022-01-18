@@ -1,0 +1,19 @@
+# "find" command is far more powerful. by default, on its own will list EVERY single file and directory nested in current working directory. 
+
+# to find total number of files and directories from where search is run...
+> find | wc -l
+
+# can direct to look in a specific folder
+> find /etc/apt/
+> find <folder in current directory>
+
+# "type" can search for specific things...  "d" to find directories, "f" to find files. plus more
+> find -type d 
+
+# finding by name, use -name followed by the name in ""
+> find <path> -name "<file name>"
+
+# to ignore case, use -iname
+
+
+
