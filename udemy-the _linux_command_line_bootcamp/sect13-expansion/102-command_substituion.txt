@@ -1,0 +1,5 @@
+# can use the $(command) syntax to display te output of another command. more useful for scripts for output that could reflect dynamic information
+> echo $(date)    (will show todays date)
+
+# or use backtick on either side of command
+> echo `date`
