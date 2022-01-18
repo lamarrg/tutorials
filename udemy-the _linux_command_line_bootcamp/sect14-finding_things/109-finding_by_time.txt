@@ -1,0 +1,16 @@
+# create item with a creation date in the past using -d    can be minutes|hours|days|week|months
+> touch <filename> -d "1 week ago"
+
+# to find file based on modificatin time in minutes
+> find -mmin +30
+
+# find items accessed by less than x minutes ago / also works for change time (cmin)
+> find -amin -[num minutes]
+
+# find items accessed by more than x minutes ago / also works for change time (cmin)
+> find -amin +[num minutes]
+
+# find by atime/mtime/ctime... takes a number and multiples by 24 hour periods. any fractional part is ignored
+> find -mtime -3  (72 hours)
+
+
