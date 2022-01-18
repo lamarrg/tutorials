@@ -1,0 +1,14 @@
+# can use -and, -or, and -not operators to create more complex queries
+
+# not  (-and operator is implied).    ! is shortcut for -not
+> find -type -f -not -name "*.html"
+
+# and operator
+> find -type d -and -name "[search pattern]"
+
+# or operator
+> find ~ -iname "tue*" -or -iname "mon*"
+
+
+
+
