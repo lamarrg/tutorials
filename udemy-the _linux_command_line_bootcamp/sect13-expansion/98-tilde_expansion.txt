@@ -1,0 +1,6 @@
+# "~" represents home directory for current user
+
+# if there are other existing users, you put thier username after the tilde and it will expand to thier home directory
+> echo ~<username>
+
+
