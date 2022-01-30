@@ -1,0 +1,18 @@
+# grep options for dealing with output
+
+# count number of matches
+> grep "myself" <filename> -ic
+
+# count number of uses of "I"
+> grep "I" <filename> -cw
+
+# show number of lines before or after
+> grep "grass" <filename> -iB2   ## using "C" is for lines before and after
+
+# find line number (n option)
+> grep "6" <filename> -wn
+
+
+
+
+
