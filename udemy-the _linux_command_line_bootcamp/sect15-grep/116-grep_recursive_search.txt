@@ -1,0 +1,12 @@
+# use the -r option to perform a recursive search which will include all files under a directory, subdirectories, and their files. if no directory is not specifed, grep will search the current working directory. 
+
+> grep -r "chicken"     # will search the current working directory and any nested directories for lines that contain "chicken"
+
+# specific directory
+> grep -r "beyonce" ~/Desktop
+
+# use regex to look for 2 possible spellings
+> grep -ri "parm[ea]san" MealDiary/
+
+
+
