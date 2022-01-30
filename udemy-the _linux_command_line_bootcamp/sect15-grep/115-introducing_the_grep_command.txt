@@ -1,0 +1,14 @@
+# helps search for content within a file
+# seraches for patterns in each files/text contents. will print each line that matches a pattern we provide
+# command example -> grep "chicken" animals.txt
+
+# case insensitive
+> grep "chicken" animals.txt -i
+
+# word search. searches for an exact word, not a fragment
+> grep -w "cat" book.txt
+
+
+
+
+
