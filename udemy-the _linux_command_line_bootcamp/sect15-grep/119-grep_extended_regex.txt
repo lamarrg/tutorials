@@ -1,0 +1,7 @@
+# egrep (or grep -E)  certain characters for regex lose their special meaning
+
+# "?" for extended syntax normally means the character is following is optional. 
+> grep "birds?" -wE <filename>
+
+
+
