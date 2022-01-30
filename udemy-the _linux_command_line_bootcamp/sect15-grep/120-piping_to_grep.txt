@@ -1,0 +1,13 @@
+# a common use case is tu use grep to whittle down or filter a large chunk of data. 
+# seach for a phrase in all the running applications on the system
+> ps aux | grep <search phrase>
+
+
+# search man pages for use of count...
+> man grep | grep count
+
+
+# use find and grep together
+> find ~ -name "*.txt" ! -empty type f -exec grep -l "purple" '{}' ';'
+
+
