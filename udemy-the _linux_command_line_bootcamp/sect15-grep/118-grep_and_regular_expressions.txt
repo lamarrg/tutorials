@@ -1,0 +1,14 @@
+# we can provide regular expressions to grep. helps us match complex patterns, but the syntax does differ from what we have seen so far
+
+
+. - matches any single character
+> grep 't...' <filename> -w     ## matches any WORD (-w) that starts with the letter t, and has 3 characters after
+
+^ - matches the start of a line
+> grep "^I" <filename> -w
+
+$ - matches end of line
+> grep "$)" <filename> -c    ## counting appearances
+
+
+
