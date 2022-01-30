@@ -1,0 +1,8 @@
+# xargs - build and execute command lines from standard input
+
+# cannot directly pipe results of a find (stdin) to "ls" command... 
+# create a bundle to pipe to another command
+# this will not work -> find -empty | ls       ## side note, this command hosed my server
+# this one should work
+> find -empty | xargs ls -l
+
