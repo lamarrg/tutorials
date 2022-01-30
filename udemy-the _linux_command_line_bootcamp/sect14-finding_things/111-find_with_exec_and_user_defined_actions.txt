@@ -1,0 +1,18 @@
+# ability for find to run a command for us with every mathing pathname
+# the syntax is -> find -exec command {};
+
+
+-------------------
+# prints list of empty files starting from home directory, and the file details for each (the ls portion is what is passed to the "exec" command )
+> find ~ -type f -empty -exec ls -l '{}' ';'      # quotes around curly braces and semicolon are required
+
+
+# if you want to delete multiple files you have found, using "ok" instead of "exec" will ask if you want to delete each file
+-------------------
+# find file names that end with ".html", and make a copy with "_COPY" at the end
+> find -type f -name "*.html" -exec cp '{}' '{}_COPY' ';'
+
+
+
+
+
