@@ -1,0 +1,27 @@
+# chmod - change the permissions of a file or directory. (change mode)
+# to use it, need to tell it:
+# WHO we are changing permissions for
+# WHAT change are we making/adding/removing
+# WHICH permissions are we setting
+
+# specify the who...
+# u - user (the owner of the file)
+# g - group (members of the group the file belongs to)
+# o - others (the world)
+# a - all the above
+
+# then the what...
+# - (minus sign) removes the permission
+# + (plus sign) grants the permission
+# = (equal sign) sets a permission and removes others
+
+# the which... 
+# r - read permission
+# w - writer permission
+# x - execute permission
+
+# sample command
+> chmod g+w <file or folder>   (adds group permission to write)
+> chmod a-w <file of folder>   (removes write permission from all)
+> chmod u+x <file or folder>   (add user execute)
+> chmod a=r <file or folder>   (sets all to only be able to read)
