@@ -1,0 +1,9 @@
+# the sudo command
+
+# technically, its defined as - execute a command as another user. (in our case, it will be root)
+
+# sudo -l will allow you to see waht commands you can run as sudo, in a particular user
+
+# structure is basically add "sudo" before the command, and prob will need to enter current users password
+> sudo <command>
+
