@@ -1,1 +1,5 @@
+# drwxrwxrwx
 
+# if there is an "x", as opposed to "-", the item can be executed. (based on owner and group) 
+
+# if it is a file, the file can be run as a program. if it is a directory, allows a user to cd into it. 
