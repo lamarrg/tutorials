@@ -1,0 +1,8 @@
+# unix and unix like systems are multiuser operating systems. multiple users, and can have multi users logged in at once. 
+
+# as a standard, cannot manipulate other users files. (there are ways around this)
+
+
+
+
+
