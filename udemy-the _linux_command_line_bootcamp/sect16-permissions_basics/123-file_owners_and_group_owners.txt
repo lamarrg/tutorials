@@ -1,0 +1,7 @@
+# on unix systems, a single user may be the owner of files and directories, meaning they have control over thier access.
+
+# addtionally, users can belong to groups which are given access to particular files and folders by their owners.
+
+
+
+
