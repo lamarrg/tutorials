@@ -1,0 +1,9 @@
+# su command (substitute user and group id)
+
+> su <username>   (has to be an existing user) 
+
+# recommended way (with dash or "--login")... (using the dash will change environment)
+> su - <username>   (then you will be prompted to enter password) 
+
+> logout   (will get you out) 
+
