@@ -1,0 +1,12 @@
+# file attributes
+# 10 characters that are printed out first
+# tell the type of file, the read write and execute permissions for the files owner, the group owner and everyone else
+
+# drwxrwxrwx 
+# the first character tells file type...
+# - is regular file
+# d is directory
+# c is character special file, files that are connected to devices
+# l is symbolic link
+# b is block special files, refer to a device, hard drive partions...
+
