@@ -1,0 +1,5 @@
+# drwxrwxrwx
+
+# if there is an "r", as opposed to "-", the item can be read. (based on owner and group) 
+
+
