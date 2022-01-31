@@ -1,0 +1,7 @@
+# root user  (AKA super user)
+
+# by default, ubuntu locks the root user. it can be abused and is dangerous. 
+
+
+
+
