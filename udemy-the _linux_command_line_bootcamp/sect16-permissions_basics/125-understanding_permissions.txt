@@ -1,0 +1,9 @@
+# drwxrwxrwx
+# first character is file type
+# last 9 are permissions by owner, group and world
+
+# r is read permissions
+# w is write permissions
+# x is execute permissions
+
+
