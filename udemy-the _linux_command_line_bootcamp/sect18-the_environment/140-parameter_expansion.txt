@@ -1,0 +1,8 @@
+# to access the value of a variable. prefix it with $
+> echo $USER
+
+# environment variables are case senstitive
+
+
+
+
