@@ -1,0 +1,16 @@
+# PS1 variable is what governs the prompt
+# to have changes persist, must add to startup files 
+
+# -for login shell sessions. sessions where we start a virtual console or use su commnand. where password has to be entered
+# /etc/proile - global config for all users
+# ~/bash_profile - user's personal config file
+# ~/bash_login - read if bash_profile is not found
+# ~/.profile - used if previous two are not found
+
+
+# - for non login sessions. typical terminal session
+# etc/bash.bashrc - global config for all users
+# ~/.bashrc - specific settings for each user. this is where we can define our own settings and configuration
+
+# reload bash configs
+> source .bashrc   (from home directory)
