@@ -1,0 +1,17 @@
+# chown - change ownership of user or group
+
+# chown <user>[:<group>] <files>
+> chown user_bob file.txt   (changes individual owner)
+
+# regular users can't change ownership, must be done by sudo
+
+# to change group, use colon ahead of group name
+> chown :new_group file.txt
+
+
+# can do both at same time...
+> chown user_bob:new_group file.txt
+
+
+
+
