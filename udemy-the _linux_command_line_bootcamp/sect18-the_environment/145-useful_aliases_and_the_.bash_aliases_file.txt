@@ -1,0 +1,5 @@
+# look at aliases that other developers have done. 
+
+# https://www.digitalocean.com/community/questions/what-are-your-favorite-bash-aliases
+
+# aliases can be added to a separate file. -> ~/.bash_aliases
