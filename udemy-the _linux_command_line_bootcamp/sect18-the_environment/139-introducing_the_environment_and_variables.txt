@@ -1,0 +1,4 @@
+the shell maintains a set of info during a shell session, known as the environment. set of key value pairs that define properties like home directory, working directory, name of shell, name of logged in user.
+
+# printenv will show environment variables and the current values
+
