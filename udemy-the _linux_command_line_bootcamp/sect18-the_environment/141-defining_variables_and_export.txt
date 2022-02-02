@@ -1,1 +1,16 @@
+# define our own environment variables
+# name on left, equal sign, value on the right
+> animal=feline   (traditionally, system ones are capitalized)
+
+# technically, the above is a shell variable, not an environment variable 
+
+# shell variables only exist in current shell session 
+# environment variables are more like global variables in programming
+
+# to make an environment variable, prefix with "export"
+> export anmimal=gray_whale
+
+# if your variable will have a space, use quotes
+
+
 
