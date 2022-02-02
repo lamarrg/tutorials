@@ -1,0 +1,8 @@
+# an alias is a shortcut to a longer command. 
+# example -> alias ll="ls -al" 
+# can then run ll instead of typing out the whole thing
+> ll
+
+# creating one inline is only avail in current session
+# for long term, define in ~/.bashrc
+
