@@ -1,0 +1,7 @@
+# can find it all at "man bash", search for PROMPTING
+
+# this went into a LOT of currently unneeded minutea that can be looked up if desired
+
+
+
+
