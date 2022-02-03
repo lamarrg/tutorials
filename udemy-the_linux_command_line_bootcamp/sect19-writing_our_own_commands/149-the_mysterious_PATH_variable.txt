@@ -1,0 +1,7 @@
+# PATH variable - a list or directories in which the shell will look inside of for executable commands. each possible directory is separated by :
+
+> echo PATH
+# example ->  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+
+
