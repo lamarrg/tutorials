@@ -1,0 +1,17 @@
+# where ever we put custom scripts, want to make sure its added to PATH.
+# convention is to add directory to home directory called "bin" 
+
+## some distributions look to see if a bin directory was added to users home   (in .profile)
+
+### following is found in .profile from my digital ocean ubuntu installation
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    PATH="$HOME/bin:$PATH"
+fi
+
+
+# manually add, open .bashrc and add the following line
+PATH="$HOME/bin:$PATH"
+
+
+
