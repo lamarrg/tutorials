@@ -5,6 +5,10 @@
 # - make the script executable using chmod
 # - verify that the shell can find your script
 
+# file named "hi" is saved here...  
+
+# to run a file manually, use bash
+> bash hi
 
 
 
