@@ -1,0 +1,10 @@
+# bash scripting
+
+# the basic steps
+# - write a script in a file and save it
+# - make the script executable using chmod
+# - verify that the shell can find your script
+
+
+
+
