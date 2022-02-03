@@ -1,0 +1,16 @@
+# first line of the script should contain this line...
+
+------
+#!/bin/bash
+------
+
+# shebang is actually just "#!"
+# it tells the OS which interpreter it should use when parsingg the file
+# the portion after is the path to the bash binary
+
+# This is not bash specific. if we wanted to write a python script, we would include the path to the python binary
+
+# python example
+-----
+#!/usr/bin/python3
+-----
