@@ -1,0 +1,11 @@
+# glossing over most of this as there are more advanced API driven weather resources. This video does reveal some new usable command line aspects.
+
+# command line has the ability to pass in variables. in the script, they are identified by the order they occur after the command. $1, $2, $3 etc... 
+# would need to create a script in a file called "weather"
+# in the script, it would read -> curl wttr.in/$1
+> weather Austin
+
+# goes on to show how to simply add parameters/help content by using "case". seems somewhat odd. I believe I have seen it elsewhere explained better
+
+
+
