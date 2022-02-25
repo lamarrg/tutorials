@@ -4,6 +4,8 @@ This may not be a true "repo", but this will be used for listing (and link to, i
 
 ----------
 
+https://github.com/lamarrg/tutorials/tree/main/udemy-GIS_in_QGIS_basic_of_GIS_analysis (started 2-24-2022)
+
 [Beginner's Crash Course to Elastic Stack by Lisa Jung](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana) (completed 02-13-2022) There were no quantifiable tests, exercises or certificates for output to verify that course was actually completed. 
 
 [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/learn/lecture/26177178#overview) (completed 02-03-2022) [certificate of completion](https://github.com/lamarrg/tutorials/blob/main/udemy-the_linux_command_line_bootcamp/documents/UC-02c5108f-1c4e-4271-b206-be23d245d3ab.pdf)
