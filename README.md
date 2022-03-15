@@ -4,7 +4,9 @@ This may not be a true "repo", but this will be used for listing (and link to, i
 
 ----------
 
-https://github.com/lamarrg/tutorials/tree/main/udemy-GIS_in_QGIS_basic_of_GIS_analysis (started 2-24-2022-abondoned 3-9-2022). The instructor may be very knowledgable, but a combination of bad editing, and much of the resources we were supposed to follow along with being unavailable, I chose not to continue. I will find another course to replace it. 
+
+
+https://www.udemy.com/course/applied-gis-in-qgis-in-2021-project-based-spatial-analysis/(Applied GIS in 2022 - Project-based Spatial Analysis in QGIS) (completed 03-15-2022). [certificate of completion](https://udemy-certificate.s3.amazonaws.com/image/UC-205f4b84-db55-4db8-8b22-3757f6e15f19.jpg?v=1647365534000). 
 
 [Beginner's Crash Course to Elastic Stack by Lisa Jung](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana) (completed 02-13-2022) There were no quantifiable tests, exercises or certificates for output to verify that course was actually completed. 
 
