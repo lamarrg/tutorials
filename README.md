@@ -3,7 +3,7 @@
 This may not be a true "repo", but this will be used for listing (and link to, if available) newer tutorials that have been completed/started. (most recent at the top)
 
 ----------
-
+ 
 
 
 [https://www.udemy.com/course/applied-gis-in-qgis-in-2021-project-based-spatial-analysis/](Applied GIS in 2022 - Project-based Spatial Analysis in QGIS) (completed 03-15-2022). [certificate of completion](https://udemy-certificate.s3.amazonaws.com/image/UC-205f4b84-db55-4db8-8b22-3757f6e15f19.jpg?v=1647365534000). 
