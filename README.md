@@ -4,6 +4,8 @@ This may not be a true "repo", but this will be used for listing (and link to, i
 
 ----------
 
+
+
 [Applied GIS in 2022 - Project-based Spatial Analysis in QGIS](https://www.udemy.com/course/applied-gis-in-qgis-in-2021-project-based-spatial-analysis/) (completed 03-15-2022). [certificate of completion](https://udemy-certificate.s3.amazonaws.com/image/UC-205f4b84-db55-4db8-8b22-3757f6e15f19.jpg?v=1647365534000). 
 
 [Beginner's Crash Course to Elastic Stack by Lisa Jung](https://github.com/LisaHJung/Part-1-Intro-to-Elasticsearch-and-Kibana) (completed 02-13-2022) There were no quantifiable tests, exercises or certificates for output to verify that course was actually completed. 
