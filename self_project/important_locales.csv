@@ -1,0 +1,7 @@
+"id","geom","name","longitude","latitude","continent","country"
+1,POINT (-96.78261 46.87698),Fargo, North Dakota,-96.782610,46.876980,North America,United States
+4,POINT (29.97837 31.13385),Pyramid of Giza,29.978370,31.133850,Africa,Egypt
+5,POINT (-71.94638 21.89077),Turks & Caicos,-71.946380,21.890770,North America,United States
+6,POINT (138.731049 35.363253),Mt Fuji,138.731049,35.363253,Asia,Japan
+7,POINT (166.654507 -77.848338),McMurdo Station,166.654507,-77.848338,Antarctica,Antarctica
+2,POINT (0 0),middle nowhere, mapping confirmation,0.000000,0.000000,Africa,Ghana
