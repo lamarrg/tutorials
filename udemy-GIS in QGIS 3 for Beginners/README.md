@@ -7,7 +7,9 @@ This is another Udemy course, and hopefully I will find it more insightful as I 
 
 # Important items about the course
 
-Course will be primarily using WGS '84, EPSG code 4326
+The raw data has been removed as it is almost 500MB. The resulting shape should still be available.
+
+Most "popular" CRS is WGS '84, EPSG code 4326. Course will be primarily using WGS 84/UTM zone 11, EPSG:32611.
 
 Vectors - Points, Lines and Polygons cannot be combined together in the same file (layer). 
 

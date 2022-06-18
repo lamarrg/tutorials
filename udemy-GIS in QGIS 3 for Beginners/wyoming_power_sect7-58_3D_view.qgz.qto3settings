@@ -1,0 +1,477 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Aquatic_Conservation_Areas_d33ac5db_07b1_4142_b108_ad36cbbdc806": {
+        "enabled": true,
+        "groups": []
+      },
+      "BLM__Surface_Management_Agency_0395e321_e7f7_43ff_abf8_34b1225352e5": {
+        "enabled": true,
+        "groups": []
+      },
+      "Census__Military_Installations_8c5cf9f3_0dd5_4438_880d_7ae0a26ac731": {
+        "enabled": true,
+        "groups": []
+      },
+      "Census__National_Park_Services_Areas_da3824c2_b09c_40a7_83a6_eea50069614e": {
+        "enabled": true,
+        "groups": []
+      },
+      "Census__Railroads_27bcb2e6_baac_4bfd_80e2_127392d01935": {
+        "enabled": true,
+        "groups": []
+      },
+      "Census__Transportation_Roads_611bc1a1_d015_4e0f_9a9a_033023b7644a": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_wyoming_84_8bc0cdc6_7b17_4c8f_a131_d26046c4bf29": {
+        "enabled": true,
+        "groups": []
+      },
+      "DOR__Counties_753d1f0b_45b9_4280_b4c7_aa475fd3d79c": {
+        "enabled": true,
+        "groups": []
+      },
+      "NPS__Boundaries_94b37553_1775_4281_a2ca_eeed6534f02c": {
+        "enabled": true,
+        "groups": []
+      },
+      "USFS__Burn_Areas__MTBS_f654a842_dd52_4b19_87e4_ff034eed98ae": {
+        "enabled": true,
+        "groups": []
+      },
+      "USFS__Special_Interest_Management_Area_1d697802_68cb_4929_9cac_ca66d81e90ec": {
+        "enabled": true,
+        "groups": []
+      },
+      "USFS__Surface_Ownership_Parcels__Detailed_82bb3980_66ee_43ae_be2b_087fe15a3986": {
+        "enabled": true,
+        "groups": []
+      },
+      "USFWS__Refuge_Boundaries_6cc9f575_d527_423d_9bb7_3ff00c82fcb2": {
+        "enabled": true,
+        "groups": []
+      },
+      "USGS__Landcover_Gap_Analysis_Program_7e679b3a_408d_478d_8432_acdbacb8e476": {
+        "enabled": true,
+        "groups": []
+      },
+      "USGS__Transmission_Lines_c7640881_dabb_4713_8a92_94b975118463": {
+        "enabled": true,
+        "groups": []
+      },
+      "USGS__Wind_Turbines_edf53ce1_50fc_4a88_8382_719bd94981e2": {
+        "enabled": true,
+        "groups": []
+      },
+      "WYGISC__Power_Generation_02b54c56_0c6c_43b1_9d42_37a14184faa8": {
+        "enabled": true,
+        "groups": []
+      },
+      "WY_Rivers_2b91dd47_4a31_4e01_a9d7_a39e77fa15db": {
+        "enabled": true,
+        "groups": []
+      },
+      "Wind_River_Indian_Reservation_Boundary_54d79e27_edd3_42a2_8e83_a864c7048fd5": {
+        "enabled": true,
+        "groups": []
+      },
+      "Wyoming__Incorporated_Places_e61da943_1b1c_4ac5_b4de_557797f8283f": {
+        "enabled": true,
+        "groups": []
+      },
+      "aspect_2f572330_800a_4c6f_a5da_6b9ec6e3754d": {
+        "enabled": true,
+        "groups": []
+      },
+      "contour300_49d96df3_49ed_4606_95a0_43e39d955e95": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:1e9b2238": {
+        "enabled": true,
+        "groups": []
+      },
+      "hillshade_8b02647e_2a7f_45d4_991e_29290712488b": {
+        "enabled": true,
+        "groups": []
+      },
+      "output_1d8cae93_cb6d_457f_b260_53c5470d093f": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_14_03_1270f60c_3017_4315_9754_b662de6d204d": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_14_04_e8c9f0f2_66fa_4952_be0c_a2b9bac88d07": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_15_03_d7ed461b_2eda_413d_aecf_b5b26af60f76": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_15_04_c65fc383_e574_479b_8a66_e6d51986617d": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_16_03_94c7cc5b_60b9_488d_917d_7fd640e89527": {
+        "enabled": true,
+        "groups": []
+      },
+      "srtm_16_04_a9786a1f_8b91_4ff3_ad40_a8751750a354": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "Wyoming__Incorporated_Places_e61da943_1b1c_4ac5_b4de_557797f8283f",
+      "name": "Wyoming__Incorporated_Places",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "WYGISC__Power_Generation_02b54c56_0c6c_43b1_9d42_37a14184faa8",
+      "name": "WYGISC__Power_Generation",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "WY_Rivers_2b91dd47_4a31_4e01_a9d7_a39e77fa15db",
+      "name": "WY_Rivers",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "output_1d8cae93_cb6d_457f_b260_53c5470d093f",
+      "name": "output",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "USGS__Transmission_Lines_c7640881_dabb_4713_8a92_94b975118463",
+      "name": "USGS__Transmission_Lines",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "USFS__Surface_Ownership_Parcels__Detailed_82bb3980_66ee_43ae_be2b_087fe15a3986",
+      "name": "USFS__Surface_Ownership_Parcels__Detailed",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "USFS__Burn_Areas__MTBS_f654a842_dd52_4b19_87e4_ff034eed98ae",
+      "name": "USFS__Burn_Areas__MTBS",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "DOR__Counties_753d1f0b_45b9_4280_b4c7_aa475fd3d79c",
+      "name": "DOR__Counties",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Census__Transportation_Roads_611bc1a1_d015_4e0f_9a9a_033023b7644a",
+      "name": "Census__Transportation_Roads",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Census__Railroads_27bcb2e6_baac_4bfd_80e2_127392d01935",
+      "name": "Census__Railroads",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Census__Military_Installations_8c5cf9f3_0dd5_4438_880d_7ae0a26ac731",
+      "name": "Census__Military_Installations",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "BLM__Surface_Management_Agency_0395e321_e7f7_43ff_abf8_34b1225352e5",
+      "name": "BLM__Surface_Management_Agency",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "USGS__Wind_Turbines_edf53ce1_50fc_4a88_8382_719bd94981e2",
+      "name": "USGS__Wind_Turbines",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Census__National_Park_Services_Areas_da3824c2_b09c_40a7_83a6_eea50069614e",
+      "name": "Census__National_Park_Services_Areas",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "NPS__Boundaries_94b37553_1775_4281_a2ca_eeed6534f02c",
+      "name": "NPS__Boundaries",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "USFS__Special_Interest_Management_Area_1d697802_68cb_4929_9cac_ca66d81e90ec",
+      "name": "USFS__Special_Interest_Management_Area",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "USFWS__Refuge_Boundaries_6cc9f575_d527_423d_9bb7_3ff00c82fcb2",
+      "name": "USFWS__Refuge_Boundaries",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Wind_River_Indian_Reservation_Boundary_54d79e27_edd3_42a2_8e83_a864c7048fd5",
+      "name": "Wind_River_Indian_Reservation_Boundary",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Aquatic_Conservation_Areas_d33ac5db_07b1_4142_b108_ad36cbbdc806",
+      "name": "Aquatic_Conservation_Areas",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "contour300_49d96df3_49ed_4606_95a0_43e39d955e95",
+      "name": "contour300",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "USGS__Landcover_Gap_Analysis_Program_7e679b3a_408d_478d_8432_acdbacb8e476",
+      "name": "USGS__Landcover_Gap_Analysis_Program",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "aspect_2f572330_800a_4c6f_a5da_6b9ec6e3754d",
+      "name": "aspect",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "USFS__Surface_Ownership_Parcels__Detailed_82bb3980_66ee_43ae_be2b_087fe15a3986",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "3b2b5606",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "3b2b5606",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "hillshade_8b02647e_2a7f_45d4_991e_29290712488b",
+      "name": "hillshade",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "USFS__Surface_Ownership_Parcels__Detailed_82bb3980_66ee_43ae_be2b_087fe15a3986",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "1fb0fb2f",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "1fb0fb2f",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_wyoming_84_8bc0cdc6_7b17_4c8f_a131_d26046c4bf29",
+      "name": "dem_wyoming",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "USFS__Surface_Ownership_Parcels__Detailed_82bb3980_66ee_43ae_be2b_087fe15a3986",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "fa83863e",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "fa83863e",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_16_04_a9786a1f_8b91_4ff3_ad40_a8751750a354",
+      "name": "srtm_16_04",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_16_03_94c7cc5b_60b9_488d_917d_7fd640e89527",
+      "name": "srtm_16_03",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_15_04_c65fc383_e574_479b_8a66_e6d51986617d",
+      "name": "srtm_15_04",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_15_03_d7ed461b_2eda_413d_aecf_b5b26af60f76",
+      "name": "srtm_15_03",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_14_04_e8c9f0f2_66fa_4952_be0c_a2b9bac88d07",
+      "name": "srtm_14_04",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "srtm_14_03_1270f60c_3017_4315_9754_b662de6d204d",
+      "name": "srtm_14_03",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:1e9b2238",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20701
+}
