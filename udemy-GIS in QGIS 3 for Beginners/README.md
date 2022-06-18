@@ -5,18 +5,13 @@ This is another Udemy course, and hopefully I will find it more insightful as I 
 
 
 
-# Important items about the course
+# Upon Completion
 
-The raw data has been removed as it is almost 500MB. The resulting shape should still be available.
+The course is complete!
 
-Most "popular" CRS is WGS '84, EPSG code 4326. Course will be primarily using WGS 84/UTM zone 11, EPSG:32611.
+I did not upload everything, so as not to infringe on the instructors content. The repo includes the modified project files and some requested output images. 
 
-Vectors - Points, Lines and Polygons cannot be combined together in the same file (layer). 
-
-
-
-
-
+GIS is a broad reaching information filtering/extrapolation system. We only scratched the surface here, but that surface was still chock full of information. 
 
 
 
